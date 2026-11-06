@@ -1,7 +1,5 @@
 # keepary-core
 
-[![tests](https://github.com/bhanu-dev82/release-room-demo-app/actions/workflows/ci.yml/badge.svg)](https://github.com/bhanu-dev82/release-room-demo-app/actions/workflows/ci.yml)
-
 The receipt-parsing core of Keepary, an expense app. This repo is the demo target for [**Release Room**](https://github.com/bhanu-dev82/release-room), a Switch workflow where AI agents triage app reviews and fix the bugs behind them.
 
 Pull requests titled `[Release Room] Fix: …` were opened by the Release Room fixer agent, after its reviewer agent approved the patch and a person allowed the push in chat.
