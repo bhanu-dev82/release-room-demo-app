@@ -1,0 +1,10 @@
+[project]
+name = "keepary-core"
+version = "0.1.0"
+description = "Receipt parsing helpers for the Keepary app. Demo target for the Release Room hackathon entry."
+requires-python = ">=3.12"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
